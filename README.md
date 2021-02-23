@@ -35,4 +35,3 @@ Netlify has made this easy. If you click the deploy button below, it will guide 
 
 Originally contributed by [@kenticomartinh](https://github.com/kenticomartinh)
 
-![Analytics](https://kentico-ga-beacon.azurewebsites.net/api/UA-69014260-4/Kentico/kontent-custom-element-shopify?pixel)
